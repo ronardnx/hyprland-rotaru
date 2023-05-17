@@ -27,9 +27,7 @@ Installation process:
   Just place all the dots inside ~/ . 
   
 Screenshots 
-![image](https://github.com/dragoshr1234/hyprland-rotaru/assets/23416091/6a72d583-5c86-4ebb-8b27-9eee5f7b48f4)
 ![image](https://github.com/dragoshr1234/hyprland-rotaru/assets/23416091/86795deb-4cca-4ac2-ac76-2415ef4e208e)
-![image](https://github.com/dragoshr1234/hyprland-rotaru/assets/23416091/5730b180-55a7-4edc-98b3-2019f65e6a8e)
 ![image](https://github.com/dragoshr1234/hyprland-rotaru/assets/23416091/fa00eec6-1874-43d3-b884-e900db80093b)
 ![image](https://github.com/dragoshr1234/hyprland-rotaru/assets/23416091/b750c95d-2053-48a6-9694-cbb1063be5a1)
 ![image](https://github.com/dragoshr1234/hyprland-rotaru/assets/23416091/4a10e03b-ef3d-4d91-8f84-8f892eca1639)
